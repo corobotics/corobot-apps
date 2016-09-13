@@ -1,0 +1,12 @@
+//Seems short, but doesn't include 'chatter'
+
+The introductory stop!;intro_1;RNDLAB
+The introductory stop!;intro_2;RNDLAB
+The Robotics Lab.;rndlab;RNDLAB
+Pattern Lab.;patternlab;PATTERNLAB
+ICL1.;icl1;ICL1
+ICL2.;icl2;ICL2
+The Tuoring Center.;tutoringcenter;ICL3
+ICL5.;icl5;ICL5
+ICL6.;icl6;ICL6
+Graphics Lab.;graphicslab;GRAPHICSLAB

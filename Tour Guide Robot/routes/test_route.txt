@@ -1,0 +1,14 @@
+The introductory stop!;intro_1;RNDLAB
+Office 3509.;off3509;OFFICE3509
+Office 3511.;off3511;OFFICE3511
+Office 3515.;off3515;OFFICE3515
+Office 3517.;off3517;OFFICE3517
+Office 3519.;off3519;OFFICE3519
+Office 3521.;off3521;OFFICE3521
+Office 3525.;off3525;OFFICE3525
+Office 3527.;off3527;OFFICE3527
+Office 3535.;off3535;OFFICE3535
+The finishing stop!;ending;RNDLAB
+
+
+

@@ -1,0 +1,116 @@
+//DO NOT EDIT WITHOUT ALSO CHANGING AUDIO FILES
+SWLounge&_
+SWInter&_
+WHall1&_
+WHall2&_
+WHall3&_
+WHall4&_
+WHall5&_
+WHall6&_
+WInter&_
+VendDoor&_
+NWDoor&_
+AtriumSW&_
+AtriumS1&_
+AtriumW&_
+AtriumNW&_
+CouchesW&_
+CouchesE&_
+AtriumN&_
+AtriumNE&_
+AtriumS2&_
+AtriumS3&_
+AtriumS4&_
+AtriumSE&_
+NEDoor&_
+NEHall&_
+EInter&_
+ShortHall&_
+EHall6&_
+EHall5&_
+EHall4&_
+EHall3&_
+EHall2&_
+EHall1&_
+SEInter&_
+SEStairs&_
+SELounge&_
+SHallW&_
+SHallE&_
+Office3675&_
+Office3673&_
+Office3671&Prof. T.J. Borrelli's research interests include machine learning, artificial intelligence, and genetic algorithms, among others. Last semester he taught Intro to Computer Science Theory and Intro to Intelligent Systems. In 2013, he received a Faculty Excellence Award.
+Office3669&_
+Office3659&_
+Office3657&Dr. Stanisław Radziszowski's primary interest is combinatorial computing, which is the use of massive computations to solve very difficult mathematical problems. Born in Poland, he earned his PhD in 1980 from the Institute of Informatics at the University of Warsaw.
+Office3655&Dr. Xumin Liu's field of interest lies in areas of data management, data mining, service oriented computing, cloud computing, business process management, social computing, and semantic Web. She received her PhD in 2009 from Virginia Tech after receiving her M.E from Jinan University in Guangzhou, China and her B.E from Dalian University of Technology in Dalian, China.
+Office3651&Dr. Butler is a robotics professor in the Intelligent Systems cluster at GCCIS and is also the Honors Advocate for the Computer Science Honors Program. He is the primary director of the Corobotics program at RIT, and played a huge role in my creation! His interests include computer science education, for which he in the Spring of 2016 received an Eisenhart Outstanding Teaching award, and puzzles, both CS-related and in other forms.
+Office3647&_
+Office3645&Dr. Ivona Bezáková received her PhD in Computer Science from the University of Chicago in 2006 and is currently working as an Assistant Professor at RIT. Her primary interest is the theoretical analysis of randomized and approximation algorithms with a particular focus on the Markov Chain. She has also worked on  graph modeling problems that intersect the areas of machine learning and networking.
+Office3637&_
+Office3635&Dr. Alan Kaminsky boasts 39 years of experience in both industry and academia, having developed telephone switching systems at Bell Laboratories, genetic algorithms at Harris Corporation, printer system architectures at Xerox, and everywhere in between. At RIT, his courses and research primarily involve parallel computing and cryptography.
+Office3627&_
+Office3625&Edith Hemaspaandra is Professor in the department of computer science at the Rochester Institute of Technology. She received her PhD in computer science from the University of Amsterdam. Her research interests include computational social choice, computational complexity, and complexity of logics. She is also the recipient of a 2005-2006 Eisenhart Award for Excellence in Teaching.
+Office3621&Prof. Wiley McKinzie is currently Vice Dean of the GCCIS. His areas of academic interest include computer networking and the evolution of computing. He has been in higher education for over thirty-nine years as a researcher, teacher, and administrator. He completed an M.S. degree in 1973 and did doctoral studies in Computer Science at the State University of New York at Buffalo.
+Office3619&Dr. Rajendra K. Raj is a Professor of Computer Science at RIT. His current research interests span large scale data management ("Big Data"), distributed systems, and privacy/security, especially applied to a variety of domains.
+Office3617&Prof. Warren Carithers' interests include operating systems, systems software, computer organization and architecture, computer graphics, and programming languages. He has twice served in the position of System Administrator for the CS department's network of computer systems, and has also served as the department's Coordinator of Undergraduate Programs.
+Office3615&Dr. Carlos Rivero received his PhD from the University of Seville, Spain in 2012. His primary research interests are varied, but he has recently been collaborating on an algorithm that would be able to identify and classify web pages without downloading their content, which would be very handy for many tasks, including parental control systems.
+Office3575&_
+Office3573&Dr. Thomas Kinsman's field of expertise is in pattern recognition, imaging science, human vision and machine learning.  He is currently teaching courses on data mining, management, and analytics, as well as Foundations of Computer Vision and Computer Graphics. He is active in community education.  He teaches a Kid's on Campus program, and regularly does community education about Computer Science in the surrounding schools.  He also helps to coach a local Science Olympics team.  In the past Dr. Kinsman has been a professional magician and a professional photographer.
+Office3571&_
+Office3569&_
+Office3559&_
+Office3557&Dr. Carol Romanowski completed her PhD in industrial engineering from the University at Buffalo and came to RIT in 2005. She moved to the CS department in 2014 after working in what has now become the School of Individualized Studies. Her research interests include critical infrastructure protection, data science, engineering design, and music mining.
+Office3555&Dr. Matthew Fluet's research interest is programming languages, extending to compiler technology, parallelism, type systems, and program semantics. He is involved in developing several open-source projects, including MLton, a compiler, and Manticore, a programming language. He achieved his PhD in Computer Science at Cornell University in 2007.
+Office3551&Dr. Richard Zanibbi's research interests include document recognition and information retrieval. His lab has created programs that allow computers to search for mathematical notation, read handwritten mathematical notation, and recognize text in pictures.
+Office3547&Dr. Minseok Kwon is a professor of Computer Science at RIT. His research interests include networking, distributed systems, and Pulse, software developed for the purpose of adjusting the visuals of a concert according to the heartbeats of the audience members.
+Office3545&Dr. Robert Duncan is a professor of Computer Science at RIT. Last Spring semester he taught Computer Science I, Computer Science for Transfers, and Concepts of Parallel and Distributed Systems.
+Office3537&Dr. Fereydoun Kazemian is a professor of Computer Science at RIT. Last Spring semester he taught Introduction to Computer Science Theory and Computational Problem Solving for Engineers.
+Office3535&Dr. Ben Steele is a professor of Computer Science at RIT. Last Spring semester he taught Computer Science I, Mechanics of Programming in C, and Programming Language Concepts.
+Office3527&Dr. Joe Geigel is a professor whose goal is to utilize computer science and media to create an interdisciplinary and interactive live experience. He currently teaches graduate and undergraduate classes focusing on Computer Graphics, Global Illumination, Animation, Virtual Reality, and Interactive Musical Experiences. He is a big fan of Broadway!
+Office3525&Dr. Aaron Deever is a professor of Computer Science at RIT. Last Spring semester he taught Computer Science II and Foundations of Algorithms.
+Office3521&Dr. Leon Reznik is a professor who is focused primarily on Big data, artificial intelligence, computing security, and sensor networks and systems in both his research and his courses.
+Office3519&Dr. Christopher Homan analyzes social networks using computing algorithms in order to better reveal how they impact individuals and  communities alike. By using unconventional sampling methods that the internet provides, he has been able to reach populations that are ordinarily difficult to sample from, such as undocumented workers.
+Office3517&Dr. Bailey is a professor of computer science. He co-directs the Computer Graphics and Applied Perception Lab and also serves as the Associate Undergraduate Program Coordinator in the CS department.
+Office3515&Dr. Heliotis received his Bachelor's and Master's in Electrical Engineering from Cornell University and, after a brief period of work at Xerox as an engineer, came to RIT to achieve a doctorate in Computer Science. Currently a full time professor, his interests include software engineering, real-time systems, and hiking and biking on local trails.
+Office3511&Dr. White teaches Concepts of Computer Systems as well as Computer Architecture.
+Office3509&Dr. Nunes-Harwitt completed his doctorate at RIT after receiving his masters in computer science at the University of Pittsburgh. He most recently taught Computer Science II, Programming  Language Concepts, Functional Programming Skills, and Foundations of Algorithms. His interests include the design and implementation of LISP-like languages, artificial intelligence, and computer algebra.
+RNDLab&The Robotics Lab is where I was born! Also known as the CS Research and Development Lab, this is the home base for the Corobotics project as well as several other high-level robotics and artificial intelligence endeavors.
+HonorsLab&_
+ICL1&The instructional computing labs exist so that students may program under the guidance of their professors and engage in hands-on work. When not in use by classes, students may enter most labs and work on classwork or independent projects.
+ICL2&At RIT, every computer scientist learns the value of working with others. Complex problems become simpler ones when working with peers, professors, and upperclassmen. A hard-working student has the opportunity as early as their second year to apply for a paid position helping others develop their coding skills!
+ICL3&Students are encouraged to come here, to the Tutoring Center, if they need any help with their Computer Science homework, or to prepare for exams. To assist, paid tutors are kept on-hand so that no question goes unanswered. In addition to the tutoring center, introductory CS courses hold weekly recitations, twice-weekly Supplemental Instruction sessions, and exam review sessions before each midterm and the final. There is also an online forum for each course. You can ask questions from the comfort of your own dorm if you so choose!
+ICL5&While the CS department provides computers in the labs, students are encouraged to bring their own laptops. Either way, they are taught how to code by way of easy-to-use programs called Integrated Development Environments, or IDEs. Students at RIT are taught to use industry-standard tools, such as Git and Putty.
+ICL6&There are many different labs available at RIT, and not just in the computer science buildings. With just a student account, you can access the computers in Golisano, Nathaniel Rochester Hall, as well as the Wallace Library. Printing services are also available depending on which school a student is a member of: CS, Engineering, Science, et cetera. A plethora of university resources are always in arm's reach!
+PatternLab&The Document and Pattern Recognition Lab explores ways to improve the algorithms and tools used for automatic recognition and retrieval of information in documents, images, audio and video, as its name suggests. Here, specialized software and applications are developed that improve the efficiency of other tasks.
+DistribLab&_
+GraphicsLab&Members of the CS Graphics and Applied Perception Lab perform funded research in the areas of computer graphics, eye tracking, and virtual reality. In addition, the lab provides a sandbox for interdisciplinary and cross-college collaboration with faculty and students from departments ranging from 3D Design and Photography, to Color Science and Imaging Science, to Computer Engineering.
+CompStudiesLab&_
+StudentCenter&_
+GradCenter&_
+CSOffice&_
+Class3000&_
+Class3510&_
+Class3560&_
+Class3690&_
+Class3455&_
+Class3445&_
+Class3435S&_
+Class3435N&_
+WHall0&_
+WHall1A&_
+WHall2A&_
+WHall3A&_
+WHall4A&_
+WHall5A&_
+ShortHall0&_
+ShortHall2&_
+SHall1&_
+SHall2&_
+SHall3&_
+SEInterA&_
+EHall1A&_
+EHall2A&_
+EHall3A&_
+EHall4A&_
+EHall5A&_
